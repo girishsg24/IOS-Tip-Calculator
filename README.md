@@ -37,7 +37,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Understanding the Swift framework was challenging. Regarding the app development, using steppers was an issue since it could go down to 0. Since I was using stepper to update the people count, my app should not go to 0 people. Another challenging task was auto update of the Tip amount & per person amount when the user makes modifications in the settings screen. All in all, it was a wonderful learning experience.
 
 ## License
 
